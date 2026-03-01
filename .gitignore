@@ -5,3 +5,4 @@ colorization_scripts.zip
 dataset
 venv
 kaggle.json
+*.pth
